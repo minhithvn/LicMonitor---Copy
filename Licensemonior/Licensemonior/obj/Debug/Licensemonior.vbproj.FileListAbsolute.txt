@@ -1,0 +1,31 @@
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\bin\Debug\Licensemonior.exe.config
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\bin\Debug\Licensemonior.exe
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\bin\Debug\Licensemonior.pdb
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\bin\Debug\Licensemonior.xml
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.Login.resources
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.Resources.resources
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.vbproj.GenerateResource.Cache
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.exe
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.xml
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.pdb
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.vbprojResolveAssemblyReference.cache
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.Form1.resources
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.new1.resources
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.timkiem.resources
+D:\VB2005\LicMonitor\Licensemonior\Licensemonior\obj\Debug\Licensemonior.email.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\bin\Debug\Licensemonior.exe.config
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.vbproj.ResolveComReference.cache
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.exe
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.xml
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.pdb
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\bin\Debug\Licensemonior.exe
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\bin\Debug\Licensemonior.pdb
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\bin\Debug\Licensemonior.xml
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.Form1.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.email.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.Login.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.Resources.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.new1.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.timkiem.resources
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.vbproj.GenerateResource.Cache
+D:\VB2005\LicMonitor - Copy\Licensemonior\Licensemonior\obj\Debug\Licensemonior.vbproj.CoreCompileInputs.cache

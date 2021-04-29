@@ -1,0 +1,3 @@
+date,no,cus,IP,doI,model,kindsp,cause,doc,date1,name,action,koa,start,endtime
+04-August-2020 12:00:00 AM,PCM08002,Leakless,3a,Slow,Dell,Onsite,Ðéo bi?t,Oh No,04-August-2020 12:00:00 AM,PCM,Re-installl,No,04-August-2020 12:00:00 AM,04-August-2020 12:00:00 AM
+04-August-2020 12:00:00 AM,PCM08002,,,,,,,,04-August-2020 12:00:00 AM,,,,04-August-2020 12:00:00 AM,04-August-2020 12:00:00 AM
